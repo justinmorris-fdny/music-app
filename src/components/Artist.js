@@ -8,6 +8,7 @@ function Artist() {
     <div className="container">
       <h2>This is an Artist component.</h2>
       <Album />
+       <Album />
     </div>
   );
 }
